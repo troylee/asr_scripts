@@ -1,4 +1,4 @@
-htk_scripts
+ASR_scripts
 ===========
 
-Scripts used to mimic some HTK functions
+Scripts used to for ASR.
